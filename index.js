@@ -45,7 +45,7 @@ let frutas = [
         precio: 13
     },
     {
-        nombre: "Banzana",
+        nombre: "Manzana",
         precio: 5
     },
     {
